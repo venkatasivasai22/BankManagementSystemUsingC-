@@ -1,0 +1,9 @@
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\bin\Debug\Bank.DAO.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\bin\Debug\Bank.DAO.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\bin\Debug\Bank.Model.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\bin\Debug\Bank.Model.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\obj\Debug\Bank.DAO.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\obj\Debug\Bank.DAO.csproj.CoreCompileInputs.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\obj\Debug\Bank.DAO.csproj.Up2Date
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\obj\Debug\Bank.DAO.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.DAO\obj\Debug\Bank.DAO.pdb

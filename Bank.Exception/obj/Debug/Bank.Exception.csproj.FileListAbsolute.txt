@@ -1,0 +1,6 @@
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\bin\Debug\Bank.Exception.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\bin\Debug\Bank.Exception.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\obj\Debug\Bank.Exception.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\obj\Debug\Bank.Exception.csproj.CoreCompileInputs.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\obj\Debug\Bank.Exception.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Exception\obj\Debug\Bank.Exception.pdb

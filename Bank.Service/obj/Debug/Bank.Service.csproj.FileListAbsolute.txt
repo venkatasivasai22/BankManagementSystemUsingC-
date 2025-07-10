@@ -1,0 +1,13 @@
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Service.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Service.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.DAO.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Exception.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Model.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.DAO.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Exception.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\bin\Debug\Bank.Model.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\obj\Debug\Bank.Service.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\obj\Debug\Bank.Service.csproj.CoreCompileInputs.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\obj\Debug\Bank.Ser.738CD54B.Up2Date
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\obj\Debug\Bank.Service.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Service\obj\Debug\Bank.Service.pdb

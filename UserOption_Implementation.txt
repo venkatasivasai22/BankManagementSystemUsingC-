@@ -1,0 +1,45 @@
+public void UserOption(string emailId, int password)
+{
+    bool continueMenu = true;
+    while (continueMenu)
+    {
+        Console.WriteLine("\n--- User Menu ---");
+        Console.WriteLine("1. Check Balance");
+        Console.WriteLine("2. Credit Money");
+        Console.WriteLine("3. Debit Money");
+        Console.WriteLine("4. Transfer Money");
+        Console.WriteLine("5. Logout");
+        Console.Write("Enter your choice: ");
+
+        try
+        {
+            int choice = int.Parse(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    CheckBalance(emailId, password);
+                    break;
+                case 2:
+                    Credit(emailId, password);
+                    break;
+                case 3:
+                    Debit(emailId, password);
+                    break;
+                case 4:
+                    NumberToNumber(emailId, password);
+                    break;
+                case 5:
+                    continueMenu = false;
+                    Console.WriteLine("Logged out successfully!");
+                    break;
+                default:
+                    Console.WriteLine("Invalid choice. Please try again.");
+                    break;
+            }
+        }
+        catch (FormatException)
+        {
+            Console.WriteLine("Invalid input. Please enter a number.");
+        }
+    }
+}

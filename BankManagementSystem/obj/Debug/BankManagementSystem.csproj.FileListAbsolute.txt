@@ -1,0 +1,17 @@
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe.config
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.exe
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\BankManagementSystem.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Service.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.DAO.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Model.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Exception.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Service.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.DAO.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Model.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\bin\Debug\Bank.Exception.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankMana.A2EB63A9.Up2Date
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
+C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe.config

@@ -9,6 +9,7 @@ namespace Bank.DAO
 {
     public class AdminDAOImplementation : IAdminDAO
     {
+        // hello 
         private static readonly string connectionString = "Server=INHYNVMUSAM01;Database=BankManagement;Trusted_Connection=True;";
         private static readonly string adminLoginQuery = "SELECT * FROM admin_details WHERE Admin_Emailid = @Email AND Admin_Password = @Password";
 

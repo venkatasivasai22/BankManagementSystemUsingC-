@@ -47,6 +47,8 @@
     <Compile Include="IAdminDAO.cs" />
     <Compile Include="IBankStatementDAO.cs" />
     <Compile Include="IBankUserDAO.cs" />
+    <Compile Include="DatabaseConnectionManager.cs" />
+    <Compile Include="TransactionManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

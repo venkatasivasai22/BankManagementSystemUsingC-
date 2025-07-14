@@ -55,7 +55,7 @@ namespace BankUI
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(298, 30);
             this.txtEmail.TabIndex = 2;
-            
+
             // 
             // lblPassword
             // 
@@ -134,7 +134,6 @@ namespace BankUI
             this.Name = "UserLoginForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "User Login";
-           
             this.ResumeLayout(false);
             this.PerformLayout();
 

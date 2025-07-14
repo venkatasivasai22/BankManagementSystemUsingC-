@@ -14,4 +14,3 @@ C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug
 C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankMana.A2EB63A9.Up2Date
 C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe
 C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.pdb
-C:\Users\vmusam\source\repos\BankManagementSystem\BankManagementSystem\obj\Debug\BankManagementSystem.exe.config

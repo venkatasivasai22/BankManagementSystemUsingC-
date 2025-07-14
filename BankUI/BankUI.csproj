@@ -86,6 +86,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminLoginForm.resx">
+      <DependentUpon>AdminLoginForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ChangePinForm.resx">
       <DependentUpon>ChangePinForm.cs</DependentUpon>
     </EmbeddedResource>

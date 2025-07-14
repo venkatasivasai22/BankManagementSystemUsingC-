@@ -15,6 +15,7 @@ namespace BankUI
 
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lblTitle = new System.Windows.Forms.Label();
             this.lblExistingPin = new System.Windows.Forms.Label();
             this.txtExistingPin = new System.Windows.Forms.TextBox();
@@ -24,6 +25,7 @@ namespace BankUI
             this.txtConfirmPin = new System.Windows.Forms.TextBox();
             this.btnSubmit = new System.Windows.Forms.Button();
             this.btnCancel = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.SuspendLayout();
             // 
             // lblTitle
@@ -58,7 +60,6 @@ namespace BankUI
             this.txtExistingPin.PasswordChar = '*';
             this.txtExistingPin.Size = new System.Drawing.Size(223, 30);
             this.txtExistingPin.TabIndex = 2;
-           
             // 
             // lblNewPin
             // 
@@ -165,5 +166,6 @@ namespace BankUI
         private System.Windows.Forms.TextBox txtConfirmPin;
         private System.Windows.Forms.Button btnSubmit;
         private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }

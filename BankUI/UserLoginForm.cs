@@ -56,6 +56,6 @@ namespace BankUI
             this.Close();
         }
 
-       
+     
     }
 }

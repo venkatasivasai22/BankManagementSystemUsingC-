@@ -3,16 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|c:\\users\\vmusam\\source\\repos\\bankmanagementsystem\\bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|c:\\users\\vmusam\\source\\repos\\bankmanagementsystem\\bank.service\\threadsafebankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|solutionrelative:bank.service\\threadsafebankservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|c:\\users\\vmusam\\source\\repos\\bankmanagementsystem\\bank.test\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|c:\\users\\vmusam\\source\\repos\\bankmanagementsystem\\bankui\\adminloginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\adminloginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|c:\\users\\vmusam\\source\\repos\\bankmanagementsystem\\bank.dao\\databaseconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\databaseconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.service\\adminserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|solutionrelative:bank.service\\adminserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.service\\adminserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|solutionrelative:bank.service\\adminserviceimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\main.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\bankuserdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\bankuserdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\ibankuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\ibankuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\bankuserdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\bankuserdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\bankstatementdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\bankstatementdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\adminloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\adminloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0E7E04-123D-4658-90C9-63A2146B3863}|BankManagementSystem\\BankManagementSystem.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ED0E7E04-123D-4658-90C9-63A2146B3863}|BankManagementSystem\\BankManagementSystem.csproj|solutionrelative:bankmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\admindaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\admindaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F205936D-642E-428E-9FBA-71A9DEABC085}|Bank.Service\\Bank.Service.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.service\\ibankuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,56 +131,16 @@
       "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\bankuserservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\bankuserdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\bankuserdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\bankstatementdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\bankstatementdaotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\bankuserdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\bankuserdaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B9B2983-891F-48D4-BBBA-3ABCBF673B0E}|Bank.Model\\Bank.Model.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.model\\bankuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B9B2983-891F-48D4-BBBA-3ABCBF673B0E}|Bank.Model\\Bank.Model.csproj|solutionrelative:bank.model\\bankuserdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\changepinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\changepinform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\ibankuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\ibankuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\unifieddashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\unifieddashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\userloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\ibankstatementdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,24 +151,12 @@
       "RelativeMoniker": "D:0:0:{3A14C665-D161-4911-83AC-2B7456C23923}|Bank.Exception\\Bank.Exception.csproj|solutionrelative:bank.exception\\adminexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\admindaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\admindaoimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39505435-00CB-4363-BCDC-F611579FDA16}|Bank.DAO\\Bank.DAO.csproj|solutionrelative:bank.dao\\iadmindao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\modelvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|solutionrelative:bank.test\\modelvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bankui\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4E555617-2391-4C81-A35C-62FCD600160D}|BankUI\\BankUI.csproj|solutionrelative:bankui\\adminloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21535F39-5743-4BF2-BD60-AE398DECA288}|Bank.Test\\Bank.Test.csproj|C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\bank.test\\exceptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,131 +178,194 @@
       "DocumentGroups": [
         {
           "DockedHeight": 376,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs",
-              "RelativeDocumentMoniker": "BankUI\\Main.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs",
-              "RelativeToolTip": "BankUI\\Main.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UserLoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.Designer.cs",
+              "RelativeToolTip": "BankUI\\UserLoginForm.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T06:30:33.96Z",
+              "WhenOpened": "2025-07-08T05:56:13.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\AdminServiceTests.cs",
+              "RelativeDocumentMoniker": "Bank.Test\\AdminServiceTests.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\AdminServiceTests.cs",
+              "RelativeToolTip": "Bank.Test\\AdminServiceTests.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwF0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:35:49.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ThreadSafeBankService.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\ThreadSafeBankService.cs",
+              "RelativeDocumentMoniker": "Bank.Service\\ThreadSafeBankService.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\ThreadSafeBankService.cs",
+              "RelativeToolTip": "Bank.Service\\ThreadSafeBankService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:17:57.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs [Design]",
+              "RelativeToolTip": "BankUI\\UserLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:38:18.013Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminLoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.resx",
+              "RelativeDocumentMoniker": "BankUI\\AdminLoginForm.resx",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.resx",
+              "RelativeToolTip": "BankUI\\AdminLoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-13T07:20:43.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
+              "RelativeToolTip": "BankUI\\UserLoginForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:38:21.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\DatabaseConnectionManager.cs",
+              "RelativeDocumentMoniker": "Bank.DAO\\DatabaseConnectionManager.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\DatabaseConnectionManager.cs",
+              "RelativeToolTip": "Bank.DAO\\DatabaseConnectionManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T07:17:24.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBankUserDAO.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankUserDAO.cs",
+              "RelativeDocumentMoniker": "Bank.DAO\\IBankUserDAO.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankUserDAO.cs",
+              "RelativeToolTip": "Bank.DAO\\IBankUserDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:29:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminServiceImp.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\AdminServiceImp.cs",
+              "RelativeDocumentMoniker": "Bank.Service\\AdminServiceImp.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\AdminServiceImp.cs",
+              "RelativeToolTip": "Bank.Service\\AdminServiceImp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T04:04:11.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankUserDAOImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\BankUserDAOImplementation.cs",
+              "RelativeDocumentMoniker": "Bank.DAO\\BankUserDAOImplementation.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\BankUserDAOImplementation.cs",
+              "RelativeToolTip": "Bank.DAO\\BankUserDAOImplementation.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAIwHIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:31:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs",
+              "RelativeDocumentMoniker": "BankUI\\Main.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs",
+              "RelativeToolTip": "BankUI\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T06:30:33.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs",
               "RelativeDocumentMoniker": "BankUI\\Main.cs",
               "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.cs [Design]",
               "RelativeToolTip": "BankUI\\Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T10:32:43.639Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-07-03T10:32:43.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminServiceImp.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\AdminServiceImp.cs",
-              "RelativeDocumentMoniker": "Bank.Service\\AdminServiceImp.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\AdminServiceImp.cs",
-              "RelativeToolTip": "Bank.Service\\AdminServiceImp.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwLwAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Main.resx",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.resx",
+              "RelativeDocumentMoniker": "BankUI\\Main.resx",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.resx",
+              "RelativeToolTip": "BankUI\\Main.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-11T04:07:32.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "BankUI\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Main.Designer.cs",
+              "RelativeToolTip": "BankUI\\Main.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T04:04:11.945Z"
+              "WhenOpened": "2025-07-11T04:07:23.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IAdminService.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IAdminService.cs",
-              "RelativeDocumentMoniker": "Bank.Service\\IAdminService.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IAdminService.cs",
-              "RelativeToolTip": "Bank.Service\\IAdminService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:25:45.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BankUserServiceImp.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\BankUserServiceImp.cs",
-              "RelativeDocumentMoniker": "Bank.Service\\BankUserServiceImp.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\BankUserServiceImp.cs",
-              "RelativeToolTip": "Bank.Service\\BankUserServiceImp.cs",
-              "ViewState": "AgIAAAkCAAAAAAAAAAAuwAUCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:25:00.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnifiedDashboardForm.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
-              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.cs",
-              "ViewState": "AgIAACYBAAAAAAAAAAAuwBQBAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:29:50.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBankUserService.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IBankUserService.cs",
-              "RelativeDocumentMoniker": "Bank.Service\\IBankUserService.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IBankUserService.cs",
-              "RelativeToolTip": "Bank.Service\\IBankUserService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAIA2wAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T06:38:39.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UnifiedDashboardForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs [Design]",
-              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:28:17.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BankUserServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserServiceTests.cs",
-              "RelativeDocumentMoniker": "Bank.Test\\BankUserServiceTests.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserServiceTests.cs",
-              "RelativeToolTip": "Bank.Test\\BankUserServiceTests.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF4AAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T04:35:58.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "BankUserDAOTests.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserDAOTests.cs",
               "RelativeDocumentMoniker": "Bank.Test\\BankUserDAOTests.cs",
               "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserDAOTests.cs",
               "RelativeToolTip": "Bank.Test\\BankUserDAOTests.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAADwv6UAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAADwv6MAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:35:54.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "BankStatementDAOTests.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankStatementDAOTests.cs",
               "RelativeDocumentMoniker": "Bank.Test\\BankStatementDAOTests.cs",
@@ -274,173 +377,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\AdminServiceTests.cs",
-              "RelativeDocumentMoniker": "Bank.Test\\AdminServiceTests.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\AdminServiceTests.cs",
-              "RelativeToolTip": "Bank.Test\\AdminServiceTests.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwG0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T04:35:49.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BankUserDAOImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\BankUserDAOImplementation.cs",
-              "RelativeDocumentMoniker": "Bank.DAO\\BankUserDAOImplementation.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\BankUserDAOImplementation.cs",
-              "RelativeToolTip": "Bank.DAO\\BankUserDAOImplementation.cs",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAwwFsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T04:31:07.712Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BankUserDetails.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Model\\BankUserDetails.cs",
-              "RelativeDocumentMoniker": "Bank.Model\\BankUserDetails.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Model\\BankUserDetails.cs",
-              "RelativeToolTip": "Bank.Model\\BankUserDetails.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T04:42:12.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ChangePinForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs [Design]",
-              "RelativeToolTip": "BankUI\\ChangePinForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T08:45:43.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ChangePinForm.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
-              "RelativeToolTip": "BankUI\\ChangePinForm.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAtwDgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T08:45:53.232Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ChangePinForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.Designer.cs",
-              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.Designer.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.Designer.cs",
-              "RelativeToolTip": "BankUI\\ChangePinForm.Designer.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAWwDwAAAALAAAAAAAAAA==",
+              "Title": "AdminLoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankUI\\AdminLoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.Designer.cs",
+              "RelativeToolTip": "BankUI\\AdminLoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T08:51:53.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IBankUserDAO.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankUserDAO.cs",
-              "RelativeDocumentMoniker": "Bank.DAO\\IBankUserDAO.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankUserDAO.cs",
-              "RelativeToolTip": "Bank.DAO\\IBankUserDAO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA2wA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:29:20.172Z"
+              "WhenOpened": "2025-07-11T03:55:18.295Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "UnifiedDashboardForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.Designer.cs",
-              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.Designer.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.Designer.cs",
-              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.Designer.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAEwCoAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Program.cs",
+              "RelativeDocumentMoniker": "BankUI\\Program.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\Program.cs",
+              "RelativeToolTip": "BankUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T06:51:26.683Z"
+              "WhenOpened": "2025-07-11T03:55:11.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "UserLoginForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.Designer.cs",
-              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.Designer.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.Designer.cs",
-              "RelativeToolTip": "BankUI\\UserLoginForm.Designer.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAswIgAAAALAAAAAAAAAA==",
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "BankManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankManagementSystem\\App.config",
+              "RelativeToolTip": "BankManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-11T03:54:51.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\AdminLoginForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.cs [Design]",
+              "RelativeToolTip": "BankUI\\AdminLoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T05:56:13.259Z"
+              "WhenOpened": "2025-07-03T05:48:29.242Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UserLoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
-              "RelativeToolTip": "BankUI\\UserLoginForm.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:38:21.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "UserLoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\UserLoginForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UserLoginForm.cs [Design]",
-              "RelativeToolTip": "BankUI\\UserLoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:38:18.013Z"
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\App.config",
+              "RelativeDocumentMoniker": "BankUI\\App.config",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\App.config",
+              "RelativeToolTip": "BankUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-11T03:54:43.698Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "IBankStatementDAO.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankStatementDAO.cs",
-              "RelativeDocumentMoniker": "Bank.DAO\\IBankStatementDAO.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankStatementDAO.cs",
-              "RelativeToolTip": "Bank.DAO\\IBankStatementDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T05:14:02.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "AdminException.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Exception\\AdminException.cs",
-              "RelativeDocumentMoniker": "Bank.Exception\\AdminException.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Exception\\AdminException.cs",
-              "RelativeToolTip": "Bank.Exception\\AdminException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T05:13:34.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AdminDAOImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\AdminDAOImplementation.cs",
-              "RelativeDocumentMoniker": "Bank.DAO\\AdminDAOImplementation.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\AdminDAOImplementation.cs",
-              "RelativeToolTip": "Bank.DAO\\AdminDAOImplementation.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T05:26:11.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "IAdminDAO.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IAdminDAO.cs",
               "RelativeDocumentMoniker": "Bank.DAO\\IAdminDAO.cs",
@@ -452,7 +448,184 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminDAOImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\AdminDAOImplementation.cs",
+              "RelativeDocumentMoniker": "Bank.DAO\\AdminDAOImplementation.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\AdminDAOImplementation.cs",
+              "RelativeToolTip": "Bank.DAO\\AdminDAOImplementation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:26:11.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePinForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs [Design]",
+              "RelativeToolTip": "BankUI\\ChangePinForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:45:43.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChangePinForm.resx",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.resx",
+              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.resx",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.resx",
+              "RelativeToolTip": "BankUI\\ChangePinForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-11T03:53:29.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ChangePinForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.Designer.cs",
+              "RelativeToolTip": "BankUI\\ChangePinForm.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:51:53.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IAdminService.cs",
+              "RelativeDocumentMoniker": "Bank.Service\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IAdminService.cs",
+              "RelativeToolTip": "Bank.Service\\IAdminService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:25:45.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BankUserServiceImp.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\BankUserServiceImp.cs",
+              "RelativeDocumentMoniker": "Bank.Service\\BankUserServiceImp.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\BankUserServiceImp.cs",
+              "RelativeToolTip": "Bank.Service\\BankUserServiceImp.cs",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAuwAUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T05:25:00.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UnifiedDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
+              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.cs",
+              "ViewState": "AgIAACYBAAAAAAAAAAAuwBQBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:29:50.119Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "IBankUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IBankUserService.cs",
+              "RelativeDocumentMoniker": "Bank.Service\\IBankUserService.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Service\\IBankUserService.cs",
+              "RelativeToolTip": "Bank.Service\\IBankUserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIA2wAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:38:39.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnifiedDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.cs [Design]",
+              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:28:17.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BankUserServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserServiceTests.cs",
+              "RelativeDocumentMoniker": "Bank.Test\\BankUserServiceTests.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\BankUserServiceTests.cs",
+              "RelativeToolTip": "Bank.Test\\BankUserServiceTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAF4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:35:58.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BankUserDetails.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Model\\BankUserDetails.cs",
+              "RelativeDocumentMoniker": "Bank.Model\\BankUserDetails.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Model\\BankUserDetails.cs",
+              "RelativeToolTip": "Bank.Model\\BankUserDetails.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:42:12.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChangePinForm.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
+              "RelativeDocumentMoniker": "BankUI\\ChangePinForm.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\ChangePinForm.cs",
+              "RelativeToolTip": "BankUI\\ChangePinForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:45:53.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnifiedDashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankUI\\UnifiedDashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\UnifiedDashboardForm.Designer.cs",
+              "RelativeToolTip": "BankUI\\UnifiedDashboardForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAEwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T06:51:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IBankStatementDAO.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankStatementDAO.cs",
+              "RelativeDocumentMoniker": "Bank.DAO\\IBankStatementDAO.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.DAO\\IBankStatementDAO.cs",
+              "RelativeToolTip": "Bank.DAO\\IBankStatementDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:14:02.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminException.cs",
+              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Exception\\AdminException.cs",
+              "RelativeDocumentMoniker": "Bank.Exception\\AdminException.cs",
+              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Exception\\AdminException.cs",
+              "RelativeToolTip": "Bank.Exception\\AdminException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T05:13:34.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "ModelValidationTests.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\ModelValidationTests.cs",
               "RelativeDocumentMoniker": "Bank.Test\\ModelValidationTests.cs",
@@ -464,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 38,
               "Title": "RegistrationForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\RegistrationForm.cs",
               "RelativeDocumentMoniker": "BankUI\\RegistrationForm.cs",
@@ -475,18 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AdminLoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.cs",
-              "RelativeDocumentMoniker": "BankUI\\AdminLoginForm.cs",
-              "ToolTip": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminLoginForm.cs [Design]",
-              "RelativeToolTip": "BankUI\\AdminLoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T05:48:29.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "AdminDashboardForm.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\BankUI\\AdminDashboardForm.cs",
               "RelativeDocumentMoniker": "BankUI\\AdminDashboardForm.cs",
@@ -497,7 +659,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 39,
               "Title": "ExceptionTests.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Test\\ExceptionTests.cs",
               "RelativeDocumentMoniker": "Bank.Test\\ExceptionTests.cs",
@@ -509,7 +671,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 40,
               "Title": "BankStatement.cs",
               "DocumentMoniker": "C:\\Users\\vmusam\\source\\repos\\BankManagementSystem\\Bank.Model\\BankStatement.cs",
               "RelativeDocumentMoniker": "Bank.Model\\BankStatement.cs",

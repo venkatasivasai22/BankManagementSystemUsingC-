@@ -10,8 +10,11 @@ C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\bin\Debug\Bank.Model.pd
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\bin\Debug\Bank.DAO.pdb
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\bin\Debug\Bank.Exception.pdb
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.AdminLoginForm.resources
+C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.ChangePinForm.resources
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.Main.resources
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.Properties.Resources.resources
+C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.UnifiedDashboardForm.resources
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.UserLoginForm.resources
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.RegistrationForm.resources
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.csproj.GenerateResource.cache
@@ -20,5 +23,3 @@ C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.csproj
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.exe
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.pdb
 C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.exe.config
-C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.UnifiedDashboardForm.resources
-C:\Users\vmusam\source\repos\BankManagementSystem\BankUI\obj\Debug\BankUI.ChangePinForm.resources

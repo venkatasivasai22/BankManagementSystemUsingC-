@@ -1,5 +1,3 @@
-C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.csproj.AssemblyReference.cache
-C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.csproj.CoreCompileInputs.cache
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\xunit.abstractions.dll
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -66,6 +64,8 @@ C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\ru\Microso
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.csproj.AssemblyReference.cache
+C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.csproj.CoreCompileInputs.cache
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.csproj.Up2Date
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.dll
 C:\Users\vmusam\source\repos\BankManagementSystem\Bank.Test\obj\Debug\Bank.Test.pdb

@@ -26,7 +26,7 @@ namespace Bank.DAO
         {
             using (var connection = new SqlConnection(connectionString))
             {
-                await connection.OpenAsync();
+                await connection.OpenAsync().ConfigureAwait(false);
                 using (var command = new SqlCommand(insertQuery, connection))
                 {
                     command.Parameters.AddWithValue("@Name", bankUserDetails.Name);
@@ -39,7 +39,7 @@ namespace Bank.DAO
                     command.Parameters.AddWithValue("@Status", "pending");
                     command.Parameters.AddWithValue("@Amount", bankUserDetails.Amount);
 
-                    int result = await command.ExecuteNonQueryAsync();
+                    int result = await command.ExecuteNonQueryAsync().ConfigureAwait(false);
                     Console.WriteLine(result > 0 ? "Registration successful!" : "Registration failed.");
                 }
             }
@@ -113,7 +113,9 @@ namespace Bank.DAO
             {
                 await connection.OpenAsync();
                 using (var command = new SqlCommand(userLoginQuery, connection))
+
                 {
+
                     command.Parameters.AddWithValue("@Email", emailId);
                     command.Parameters.AddWithValue("@Pin", pin);
                     

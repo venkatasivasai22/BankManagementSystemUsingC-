@@ -45,6 +45,7 @@
     <Compile Include="BankUserServiceImp.cs" />
     <Compile Include="IAdminService.cs" />
     <Compile Include="IBankUserService.cs" />
+    <Compile Include="ThreadSafeBankService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
